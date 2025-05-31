@@ -14,10 +14,10 @@ const Footer = () => {
             Crafted with <span className="heart">❤️</span> by <strong>Harsh Bhanushali</strong>
           </span>
           <div className="footer-links">
-            <a 
-              href="https://github.com/harshAdv10080" 
-              target="_blank" 
-              rel="noopener noreferrer" 
+            <a
+              href="https://github.com/harshAdv10080/path-visualizer"
+              target="_blank"
+              rel="noopener noreferrer"
               className="footer-link"
             >
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
